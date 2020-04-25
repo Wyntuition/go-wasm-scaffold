@@ -1,6 +1,6 @@
 # Scaffold: Front End with WebAssembly and Go
 
-Follow the steps to stand up a front end powered by WebAssembly and Go in 15 minutes. A working example is included.
+Follow the steps to stand up a front end powered by WebAssembly and Go in 15 minutes. Use it as a starter or to see how WebAssembly and Go work with the DOM. A working example is included.
 
 1. Wire up a new go package (main.go hello world included) 
 

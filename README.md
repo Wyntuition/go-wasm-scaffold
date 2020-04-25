@@ -52,7 +52,7 @@ Follow the steps to stand up a front end powered by WebAssembly and Go in 15 min
 - [Go WebAssembly Tutorial Video (15m)](https://www.youtube.com/watch?v=4kBvvk2Bzis)
 
 DOM
-- [syscall js](ttps://godoc.org/syscall/js)
+- [syscall js](https://godoc.org/syscall/js)
 - [gas web components](https://gascore.github.io/#/)
 - [go-app: DOM element access in Go code, progressive web apps](https://github.com/maxence-charriere/go-app)
 - [Server-side rendering](https://github.com/bgokden/gowebian)

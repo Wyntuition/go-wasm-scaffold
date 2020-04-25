@@ -55,5 +55,5 @@ DOM
 - [syscall js](https://godoc.org/syscall/js)
 - [gas web components](https://gascore.github.io/#/)
 - [go-app: DOM element access in Go code, progressive web apps](https://github.com/maxence-charriere/go-app)
-- [Server-side rendering](https://github.com/bgokden/gowebian)
-- [UI library](https://github.com/vugu/vugu)
+- [GoWebian Server-side rendering](https://github.com/bgokden/gowebian)
+- [Vudu UI library](https://github.com/vugu/vugu)
